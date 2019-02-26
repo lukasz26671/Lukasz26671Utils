@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Lukasz26671_Utils",
+  "name": "Lukasz26671's Utils",
+  "description": "This mod adds some items and tools for you to use :D",
+  "version": "1.1",
+  "mcversion": "1.7.10",
+  "url": "lukasz26671.github.io",
+  "updateUrl": "",
+  "authorList": ["Lukasz26671", "Kettlson"],
+  "credits": "Lukasz26671 for coding, Kettlson for making textures :D",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
