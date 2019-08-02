@@ -5,9 +5,6 @@ import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.event.world.BlockEvent;
 
-/**
-* Created by Galaxy_2Alex on 18-Jul-16.
-*/
 public class BreakHandler {
 
     @SubscribeEvent
