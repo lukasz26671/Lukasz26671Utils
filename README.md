@@ -1,6 +1,5 @@
 # Lukasz26671Utils
-Basically a mod that I made to learn some coding in minecraft xD
-But don't think it's - 'Meh im 2 lazy i'll just scale some textures from 400x400 to 16x16 what can go wrong' xDDD
-This mod adds some Items that will hopefully help you in your minecraft survival xD
-I hope you'll like it :D
-U can give me some advice how to improve - lukasz266713@gmail.com
+Basically it's a mod made just for fun - to test Java and learn some new things :D
+Yeaaahhhh. So some items might be overpriced and overpowered but! There are some new armors - even with 2 skins!
+I really tried to do my best, so I can't do anything else except leaving it for you to rate :D
+U can give me some advice how to improve my code, etc. or just a suggestion what to add. Even a collab! - lukasz266713@gmail.com
